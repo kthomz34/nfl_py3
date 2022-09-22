@@ -1,5 +1,4 @@
 from matplotlib.pyplot import axis
-import sklearn
 import pandas as pd
 import dtale
 from pandas import DataFrame as df
